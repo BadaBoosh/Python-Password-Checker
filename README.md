@@ -12,3 +12,8 @@ Password Strength:
 * Combination of uppercase letters, lowercase letters, numbers, and special characters
 * Not a word that can be found in a dictionary or the name of a person, character, product, or organization
 * Cannot use blank spaces
+
+# Screenshots of Usage
+ <img src="https://github.com/BadaBoosh/Python-Password-Checker/assets/172407483/76e295e9-7ffa-4aa9-b80c-34282d9a4b2b" width="250">
+ <img src="https://github.com/BadaBoosh/Python-Password-Checker/assets/172407483/09ceb0c9-1ee6-476a-ae58-c521a1e07889" width="400">
+ <img src="https://github.com/BadaBoosh/Python-Password-Checker/assets/172407483/161b13c8-c674-4cb0-adc9-3553db56c953" width="600">
